@@ -36,7 +36,7 @@ The bare bones idea of a viable solution would be a tool which can allow a user 
 - Strut Material $(E_{strut}, \nu_{strut})$
 - Loading Conditions $(n)$ (The Load Factor)
 - Spanwise connection point of the strut $(y_{strut})$
-- Chordwise connection point of the strut $(x_strut)$ (Given as percentage of chord)
+- Chordwise connection point of the strut $(x_{strut})$ (Given as percentage of chord)
 
 **Ouputs**
 - **Primary**
